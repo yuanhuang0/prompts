@@ -101,3 +101,35 @@ Question:  Were the injured people taken to hospitals far away from the region?
 // GPT API replied:
 No, the people who were injured in the mass shooting were taken to hospitals around the region.
 ```
+
+*For ChatGPT:*
+```
+Use the provided articles delimited by triple quotes to answer questions. When the article doesn't provide a direct answer, employ logic to make an educated guess.
+
+"""
+The Baltimore Police Department is investigating a mass shooting in which 30 people were gunned down at a block party in the US city of Baltimore.  
+
+Key points:
+The mass shooting took place during a block party in South Baltimore
+The Baltimore Mayor described the incident as a "reckless, cowardly act"
+Police are reviewing the "extensive" crime scene to identify the suspects
+Acting Commissioner Richard Worley said police received "numerous calls" about a shooting in the 800 block of Greta Avenue just after 12:30am local time.
+
+He said 30 people were shot, three of which are in a critical condition and two are dead.
+
+"This is an extensive crime scene, our detectives are going to be here quite a while," he said.
+
+The 28 people who were injured have been taken to hospitals around the region.
+
+The Acting Commissioner said the two people who died were both adults. 
+
+He said the mass shooting took place during a "block party" in the Brooklyn Homes area of South Baltimore.
+"""
+
+Question:  Were the people injured taken to hospitals far away from the region?
+
+// ChatGPT replied:
+The article does not provide direct information about whether the injured people were taken to hospitals far away from the region. However, it does mention that the "28 people who were injured have been taken to hospitals around the region."
+
+The term "around the region" typically suggests hospitals within the same general area, not far away. Therefore, based on the information provided, we could make an educated guess and say that the injured people were not taken to hospitals far away from the region. Instead, they were likely transported to nearby or local hospitals in and around the Baltimore region.
+```
